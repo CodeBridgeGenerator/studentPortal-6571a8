@@ -1,0 +1,13 @@
+:root {
+    --cb-font: MarlinGeo, sans-serif;
+    --cb-size: 14px;
+    --font-family: MarlinGeo, sans-serif;
+}
+
+body,
+.p-component,
+.cb-app-sidebar,
+.cb-app-sidebar p {
+    font-family: var(--cb-font);
+    font-size: var(--cb-size);
+}
